@@ -10,4 +10,4 @@ Git Commands
 8. git branch - to check which branch are we currently in
 9. git checkout branchname - switch to branchname from current branch
 10. git fetch - to fetch the newly created branch from remote
-11. - 
+11. git checkout -b branchname -> to checkout to branchname with current changes from current branch 
