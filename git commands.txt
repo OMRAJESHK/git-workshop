@@ -1,0 +1,13 @@
+Git Commands
+
+1. git config --global user.name "om rajesh k"- for specifying who is the author globally
+2. git config  --globle user.email "omrajeshk6021@gmail.com" - for specifying email globally
+3. git status - to view changed but unstaged/staged files
+4. git add . - to stage all changed files
+5. git commit -m "here goes the commit message" - to commit the changes after staging
+6. git push - to push commited changes to remote branch
+7. git pull - to pull latest chnaged from remote branch
+8. git branch - to check which branch are we currently in
+9. git checkout branchname - switch to branchname from current branch
+10. git fetch - to fetch the newly created branch from remote
+11. - 
